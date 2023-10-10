@@ -28,7 +28,7 @@
               alt="css"/><br/><strong>C</strong>
      </td>
      <td align="center" height="108" width="108"> 
-            <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/java-red-logo"
+            <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"
               height="48"
               width="48"
               alt="javascript"/><br/><strong>Java</strong>
