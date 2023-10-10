@@ -22,14 +22,13 @@
               alt="html"/> <br/> <strong> HTML </strong>
      </td>
      <td align="center" height="108" width="108">
-            <img src="![380px-C_Programming_Language](https://github.com/adarshatimsina/adarshatimsina/assets/108563187/e9d0e927-987a-4906-97fc-e563f515497a)
-" 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" 
               width="48"
               height="48"
               alt="css"/><br/><strong>C</strong>
      </td>
      <td align="center" height="108" width="108"> 
-            <img src="https://www.vecteezy.com/png/22101050-java-logo-transparent-png"
+            <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/java-red-logo"
               height="48"
               width="48"
               alt="javascript"/><br/><strong>Java</strong>
