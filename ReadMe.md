@@ -1,5 +1,5 @@
 ## Hi! There 👋 
-<img align="right" src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS" alt="coding gif" width="250">
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif" width="250">
 
   I am Adarsha Timsina. I'm currently trying to learn coding.💻 <br/>
 
@@ -9,8 +9,8 @@
 
  Till Now I have gathered some knowledge in basic of these Languages. <br/> <br/>
 <a href="https://www.linkedin.com/in/adarshatimsina"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.x.com/adrshatimsina"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-
+<a href="https://www.x.com/adarshatimsina"><img src="https://www.orangemantra.com/blog/wp-content/uploads/2015/09/twitter-logo1.png" height=25></a>
+<a href="https://www.instagram.com/adarshatimsina"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height=25></a>
 # 🔧 Technologies & Tools
 
  <table>
@@ -51,11 +51,5 @@
               width="48"
               alt="linux"/><br/><strong>Linux</strong>
       </td>
-     <td align ="center" height="108" width="108">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
-              width="48"
-              height="48"
-              alt="wordpress"/><br/><strong>Wordpress</strong>
-     </td>
    </tr>
  </table>
