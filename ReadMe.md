@@ -22,16 +22,17 @@
               alt="html"/> <br/> <strong> HTML </strong>
      </td>
      <td align="center" height="108" width="108">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+            <img src="![380px-C_Programming_Language](https://github.com/adarshatimsina/adarshatimsina/assets/108563187/e9d0e927-987a-4906-97fc-e563f515497a)
+" 
               width="48"
               height="48"
-              alt="css"/><br/><strong>CSS</strong>
+              alt="css"/><br/><strong>C</strong>
      </td>
      <td align="center" height="108" width="108"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+            <img src="https://www.vecteezy.com/png/22101050-java-logo-transparent-png"
               height="48"
               width="48"
-              alt="javascript"/><br/><strong>JavaScript</strong>
+              alt="javascript"/><br/><strong>Java</strong>
      </td>
      <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" 
