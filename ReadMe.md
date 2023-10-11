@@ -1,5 +1,5 @@
 ## Hi! There 👋 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif" width="250">
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif" width="250" autoplay>
 
   I am Adarsha Timsina. I'm currently trying to learn coding.💻 <br/>
 
