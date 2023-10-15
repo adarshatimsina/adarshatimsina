@@ -7,7 +7,7 @@
  <blockquote>Information is power. But like all power, there are those who want to keep it for themselves.
  <br/> <i>-Aaron Swartz</i></blockquote>
 
- Till Now I have gathered some knowledge in basic of these Languages. <br/> <br/>
+ Till Now I have gathered some knowledge in basic of these Languages or fields. <br/> <br/>
 <a href="https://www.linkedin.com/in/adarshatimsina"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.x.com/adarshatimsina"><img src="https://www.orangemantra.com/blog/wp-content/uploads/2015/09/twitter-logo1.png" height=25></a>
 <a href="https://www.instagram.com/adarshatimsina"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height=25></a>
