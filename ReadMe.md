@@ -1,7 +1,7 @@
 ## Hi! There 👋 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif" width="250" autoplay>
 
-  I am Adarsha Timsina. I'm currently trying to learn coding.💻 <br/>
+  I am Adarsha Timsina. I'm currently trying to learn coding and programmming.💻 <br/>
 
 
  <blockquote>Information is power. But like all power, there are those who want to keep it for themselves.
